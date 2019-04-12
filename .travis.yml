@@ -11,3 +11,5 @@ matrix:
       sudo: false
     - r: release
       os: osx
+
+warnings_are_errors: false
